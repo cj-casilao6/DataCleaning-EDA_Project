@@ -1,4 +1,4 @@
-# DataCleaning-EDA
+# Overview
 Start by getting a raw Excel file and then importing it into MySQL. Started by cleaning data using by creating multiple staging tables paired with SQL queries all meant to clean the data. After cleaning the data, move onto EDA by creating more SQL queries that find important information regarding numerous companies that underwent layoffs.
 
 # Raw Excel Data
